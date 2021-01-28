@@ -2,19 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc2654a0-307d-4952-a288-7705711f6c2a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/akash/Hello_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/akash/Swapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/akash/arithmetic1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/akash/arithmetic2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/akash/datatypes_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/akash/rough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/akash/userInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/akash/variablesUpdate_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/akash/variables_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/akash/Number_AT_digit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/akash/P1_selection_statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/akash/P2_pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/akash/P3_pattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/akash/P4_pattern3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/akash/P5_pattern4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/akash/P6_mul_of_5and3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/akash/arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/akash/bool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/akash/casting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/akash/number_posORneg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/akash/strings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Learning/com/akash/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/akash/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Learning/com/akash/rough.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Learning/com/akash/rough.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/akash/rough.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/akash/rough.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,9 +127,9 @@
       <recent name="A:\Project\Java-Learning\src\com\akash" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.rough">
-    <configuration name="Swapping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.akash.Swapping" />
+  <component name="RunManager" selected="Application.P4_pattern3">
+    <configuration name="Number_AT_digit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.akash.Number_AT_digit" />
       <module name="Java-Learning" />
       <extension name="coverage">
         <pattern>
@@ -139,8 +141,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="datatypes_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.akash.datatypes_4" />
+    <configuration name="P4_pattern3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.akash.P4_pattern3" />
+      <module name="Java-Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.akash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P5_pattern4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.akash.P5_pattern4" />
+      <module name="Java-Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.akash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P6_mul_of_5and3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.akash.P6_mul_of_5and3" />
       <module name="Java-Learning" />
       <extension name="coverage">
         <pattern>
@@ -165,40 +193,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="variablesUpdate_3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.akash.variablesUpdate_3" />
-      <module name="Java-Learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.akash.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="variablesUpdate_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variablesUpdate_3" />
-      <module name="Java-Learning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.variablesUpdate_3" />
-      <item itemvalue="Application.Swapping" />
-      <item itemvalue="Application.variablesUpdate_3 (1)" />
-      <item itemvalue="Application.datatypes_4" />
+      <item itemvalue="Application.P4_pattern3" />
+      <item itemvalue="Application.P5_pattern4" />
+      <item itemvalue="Application.P6_mul_of_5and3" />
+      <item itemvalue="Application.Number_AT_digit" />
       <item itemvalue="Application.rough" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P4_pattern3" />
         <item itemvalue="Application.rough" />
-        <item itemvalue="Application.datatypes_4" />
-        <item itemvalue="Application.variablesUpdate_3 (1)" />
-        <item itemvalue="Application.Swapping" />
-        <item itemvalue="Application.variablesUpdate_3" />
+        <item itemvalue="Application.Number_AT_digit" />
+        <item itemvalue="Application.P6_mul_of_5and3" />
+        <item itemvalue="Application.P5_pattern4" />
       </list>
     </recent_temporary>
   </component>
